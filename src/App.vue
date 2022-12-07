@@ -130,8 +130,7 @@ onMounted(() => {
 		</main>
 
 		<footer class="container mx-auto p-6">
-			<a href="https://www.vecteezy.com/free-vector/rock-paper-scissors-game">Rock Paper Scissors Game Vectors by
-				Vecteezy</a>
+			<a href="https://github.com/http-gabrielalves">Rock Paper Scissors Game Vectors Gabriel Alves</a>
 		</footer>
 	</div>
 </template>
